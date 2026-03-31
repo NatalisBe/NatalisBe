@@ -1,9 +1,8 @@
 <!-- Banner -->
-![Natalis Benitez Batista](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
+![Natalis Benitez Batista](https://github.com/NatalisBe/NatalisBe/blob/1aba109bb921b6367c86768cf693cec62588999f/Gemini_Generated_Image_el6jhzel6jhzel6j.png)
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
-# 👋 Hola, soy **Natalis Benitez Batista**
+# Soy **Natalis Benitez Batista**
 
 **Futura Ingeniera Electrónica apasionada por la programación**  
 Exploro cómo el código puede potenciar el hardware para crear tecnología innovadora y eficiente.
