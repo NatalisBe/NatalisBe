@@ -1,16 +1,44 @@
-## Hi there 👋
+<!-- Banner -->
+![Natalis Beitez Batista](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<!--
-**NatalisBe/NatalisBe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
-Here are some ideas to get you started:
+# 👋 Hola, soy **Natalis Benitez Batista**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Futura Ingeniera Electrónica apasionada por la programación**  
+Exploro cómo el código puede potenciar el hardware para crear tecnología innovadora y eficiente.
+
+---
+
+## 🎓 Sobre mí
+- **Nivel académico:** Estudiante de Ingeniería Electrónica  
+- **Intereses profesionales:** Desarrollo web (Frontend/Backend), Visión Artificial, Automatización y Realidad Aumentada  
+- **Herramientas que manejo:** Google AI, Firebase, Firecrawl, Excel, diseño de PCB  
+
+---
+
+## 💻 Proyectos Destacados
+
+### 1️⃣ Portafolio visualizado en cinco años
+- **Link:** [Visitar proyecto](https://ai.studio/apps/9bcc1025-d948-4f21-98d3-9ef374ed55dc)  
+- **Descripción:** Proyecto que visualiza mi trayectoria en cinco años. Estructura de navegación basada en scroll y estética moderna potenciada por Flash UI y Google AI.  
+
+### 2️⃣ Juego interactivo
+- **Link:** [Probar juego](https://remix-remix-remix-paranice-tap-frenzy-519814875723.us-west1.run.app/)  
+- **Descripción:** Juego de competencia en tiempo real para evaluar reflejos y toma de decisiones. Sistema de objetivos dinámicos y estrategia de puntuación.  
+- **Herramientas de desarrollo:** Firebase, Firecrawl, Google AI & Claude  
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/natalis-benitez-batista-22876536a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conéctate-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:natalyb238@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Escríbeme-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
+
+
