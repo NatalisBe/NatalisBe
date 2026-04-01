@@ -12,7 +12,7 @@
 - **Nivel académico:** Estudiante de Ingeniería Electrónica  
 - **Intereses profesionales:** Desarrollo web (Frontend/Backend), Visión Artificial, Automatización y Realidad Aumentada  
 - **Herramientas que manejo:** Google AI, Firebase, Firecrawl, Excel, diseño de PCB  
-
+- **Capacitacion:** Parte del Batch 8 de Cooweb.
 ---
 ## 💻 Algunos proyectos
 
