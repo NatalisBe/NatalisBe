@@ -21,7 +21,7 @@ Exploro cómo el código puede potenciar el hardware para crear tecnología inno
 <tr>
 <td align="center" width="50%">
 
-<img src="COLOCA_EL_URL_DE_LA_IMAGEN_AQUI" width="100%" alt="Portafolio en 5 años"/>
+<img src="https://github.com/NatalisBe/NatalisBe/blob/172360a84967cd95bd34f2714357d7e9229ad7ce/Gemini_Generated_Image_ymsb5mymsb5mymsb.png" width="100%" alt="Portafolio en 5 años"/>
 
 <br><br>
 
