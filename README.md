@@ -5,7 +5,6 @@
 # Soy **Natalis Benitez Batista**
 
 **Futura Ingeniera Electrónica apasionada por la programación**  
-Exploro cómo el código puede potenciar el hardware para crear tecnología innovadora y eficiente.
 
 ---
 
