@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Natalis Benitez Batista](https://github.com/NatalisBe/NatalisBe/blob/1aba109bb921b6367c86768cf693cec62588999f/Gemini_Generated_Image_el6jhzel6jhzel6j.png)
+![Natalis Benitez Batista](https://github.com/NatalisBe/NatalisBe/blob/a201eac8be1036e3e984836e21a246b529dba850/Gemini_Generated_Image_mfc3epmfc3epmfc3.png)
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
 # Soy **Natalis Benitez Batista**
