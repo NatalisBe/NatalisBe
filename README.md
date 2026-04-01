@@ -37,7 +37,7 @@ Proyecto que muestra mi visión profesional a futuro con una experiencia inmersi
 
 <td align="center" width="50%">
 
-<img src="COLOCA_EL_URL_DE_LA_IMAGEN_AQUI" width="100%" alt="Juego interactivo"/>
+<img src="https://github.com/NatalisBe/NatalisBe/blob/ab906271937769353f5fae967b892d6a6cb456a4/Gemini_Generated_Image_ickvu2ickvu2ickv.png" width="100%" alt="Juego interactivo"/>
 
 <br><br>
 
